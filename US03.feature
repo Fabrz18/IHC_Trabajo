@@ -25,4 +25,4 @@ Feature: US03 - Automatización del riego mediante sensores IoT
         | Notificación al usuario sobre el ajuste de frecuencia de riego |
 
         | Mensaje enviado al usuario: |
-        | Frecuencia de riego modificado debido a un cambio climatico en el huerto |
+        | Frecuencia de riego modificado debido a un cambio climatico en el huerto|
