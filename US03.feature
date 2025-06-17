@@ -14,6 +14,7 @@ Feature: US03 - Automatización del riego mediante sensores IoT
 
     Scenario: Ajuste climático del riego
         Given que el usuario configura parámetros de riego,
+        When cambian las condiciones del clima, 
         When cambian las condiciones del clima,
         Then el sistema ajusta los tiempos de riego.
 
